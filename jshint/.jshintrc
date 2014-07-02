@@ -1,0 +1,18 @@
+ {
+    "curly": true, 
+    "eqeqeq": true, 
+    "newcap": true,
+    "noarg": true, 
+    "sub": true,  
+    "undef": true,
+    "boss": true, 
+    "node": false,
+    "unused": true,
+    "globals": {
+    	"jQuery" : true,
+    	"$": true,
+    	"module": true,
+        "window": true,
+        "console": true
+    }         
+}
