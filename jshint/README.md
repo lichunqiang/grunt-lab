@@ -69,3 +69,5 @@ while (notEnd())
 * __(boss)__: 查找类似与if(a = 0)这样的代码
 
 * __(node)__: 指定运行环境为node.js
+
+> 全部的配置项: [jshint](http://www.jshint.com/docs/options/)
